@@ -1,4 +1,34 @@
 [
+{
+"title": "The Marvels (2023)",
+
+"photo1": "https://image.tmdb.org/t/p/w185/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+
+"photo2": "https://image.tmdb.org/t/p/w300/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+
+"photo3": "https://image.tmdb.org/t/p/w300/w9MGuT49AGCMKHbl4kcfXpJkxAQ.jpg",
+
+"photo4": "https://image.tmdb.org/t/p/w300/tLxjbT5ROZRwYcpNT3nfQbqkApk.jpg",
+
+"description": " 
+The Marvels (2023) မြန်မာစာတန်းထိုး
+
+မှတ်ချက်။     ။ယခု ဇာတ်ကားသည် အသံအရည်အသွေးမကောင်းသေးပါ။
+
+Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကားဖြစ်ပြီး ဒီတစ်ခါမှာတော့ Carol တစ်ယောက်တည်းမဟုတ်တော့ဘဲ Miss Marvel နဲ့ Captain Rambeau တိုပါ အားဖြည့်ပါဝင်လာကြပါပြီ
+
+ဇာတ်လမ်းထဲမှာတော့ သူတို ၃ယောက်ရဲ့ စွမ်းအားတွေ ချိတ်ဆက်သွားပြီး သူတို၃ယောက်ဖြစ်ဖြစ် ၂ယောက်ဖြစ်ဖြစ် အစွမ်းကိုတစ်ပြိုင်တည်းသုံးမိတာနဲ့ နေရာချင်းလဲသွားကြတဲ့ ပြဿနာဖြစ်နေပါတယ်ဇာတ်လမ်းရဲ့ပြဿနာအစကတော့ Miss Marvel မှာ ရှိနေတဲ့လက်ကောက်လို ဆင်တူနောက်တစ်ဖက်ထပ်ရှိနေပြီး Dar-Benn ကရှာတွေ့သွားပြီး jump point တစ်ခုဖွင့်လိုက်ပါတော့တယ်အဲဒီ junp point ဟာပြန်မပိတ်တော့တဲ့အတွက် Captain Marvel နဲ့ Captain Rambeau တို၂ယောက် သွားရောက်စစ်ဆေးတဲ့အခါမှာတော့….
+
+ဒီဇာတ်ကားထဲမှာတော့ ပရိသတ်အချစ်တော် ကိုရီးယားမင်းသားချော Park Seo-Joon ကလည်း အထူးသရုပ်ဆောင်အနေနဲ့ပါဝင်ထားပါသေးတယ်",
+
+"rate": "9.5",
+"SD": "https://www.mediafire.com/file/qp1t72um7h660uc/The.Marvels.2023.720p.mp4/file",
+"HD": "https://www.mediafire.com/file/ji5aq0bczileg5v/The.Marvels.2023.1080p.mkv/file",
+"time": "105 Min",
+"year": "2023",
+"Action": "Action",
+"Marvel": "Marvel"
+},
 { 
 "title": "Oppenheimer",
 "photo1": "https://www.dropbox.com/scl/fi/9079xhdevj01ismcrdm3y/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg?rlkey=l7iuq7y561czc4i9ms6n5fuc4&dl=1",
@@ -17,7 +47,8 @@
 "SD": "https://www.mediafire.com/file/lkl7cuwqpe6hfxk/Oppenheimer.720p.mp4/file",
 "HD": "https://www.mediafire.com/file/4inysj9fynb870a/Oppenheimer.2023.1080p.mkv/file",
 "time": "181 Mins",
-"year": "2023" 
+"year": "2023",
+"Drama": "Drama"
 },
 {
 "title": "The Last Voyage of the Demeter (2023) မြန်မာစာတန်းထိုး",
@@ -42,8 +73,11 @@
 
 "time": "119 min",
 
-"year": "2023"
+"year": "2023",
 
+"Horror": "Horror",
+
+"Thriller": "Thriller"
 },
 {
 "title": " The Creator (2023) မြန်မာစာတန်းထိုး",
@@ -67,7 +101,9 @@
 
 "time": "134 Min",
 
-"year": "2023"
+"year": "2023",
+
+"Action": "Action"
 
 },
 {
@@ -90,7 +126,9 @@
 
 "time": "110 Min.",
 
-"year": "2023"
+"year": "2023",
+
+"Horror": "Horror"
 
 },
 {
@@ -114,11 +152,12 @@
 
 "time": "116 Min",
 
-"year": "2023"
+"year": "2023",
 
+"Action": "Action"
 },
 {
-"title": "1080p 5.1CH Smugglers (2023)",
+"title": " Smugglers (2023)",
 
 "photo1": "https://image.tmdb.org/t/p/w185/ayLXqPZCu3uaLLhXiqvw5NBb7Lw.jpg",
 
@@ -143,8 +182,8 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "time": "129 Min",
 
-"year": "2023"
-
+"year": "2023",
+"Action": "Action"
 },
 {
 "title": "Blue Beetle (2023)",
@@ -178,8 +217,11 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "time": "128 Min",
 
-"year": "2023"
+"year": "2023",
 
+"Action": "Action",
+
+"DC": "DC"
 },
 {
 "title": "Born to Fly(2023)",
@@ -217,7 +259,9 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "time": "127 Min",
 
-"year": "2023"
+"year": "2023",
+
+"Action": "Action"
 
 },
 {
@@ -225,13 +269,11 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "photo1": "https://image.tmdb.org/t/p/w185/8smsOtjp8FbBgL8YKrgCADJWEhe.jpg",
 
-"photo2": "",
+"photo2": "https://image.tmdb.org/t/p/w185/8smsOtjp8FbBgL8YKrgCADJWEhe.jpg",
 
-"photo3": "",
+"photo3": "https://image.tmdb.org/t/p/w185/8smsOtjp8FbBgL8YKrgCADJWEhe.jpg",
 
-"photo4": "",
-
-"photo5": "",
+"photo4": "https://image.tmdb.org/t/p/w185/8smsOtjp8FbBgL8YKrgCADJWEhe.jpg",
 
 "description": " 
 
@@ -245,7 +287,8 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "time": "77 Min",
 
-"year": "2023"
+"year": "2023",
 
+"Horror": "Horror"
 }
 ]
