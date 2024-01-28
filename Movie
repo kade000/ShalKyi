@@ -26,8 +26,9 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 "HD": "https://www.mediafire.com/file/ji5aq0bczileg5v/The.Marvels.2023.1080p.mkv/file",
 "time": "105 Min",
 "year": "2023",
-"Action": "Action",
-"Marvel": "Marvel"
+"Marvel": "Marvel",
+"type1": "Action",
+"type2": "Science Fiction"
 },
 { 
 "title": "Oppenheimer",
@@ -48,7 +49,8 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 "HD": "https://www.mediafire.com/file/4inysj9fynb870a/Oppenheimer.2023.1080p.mkv/file",
 "time": "181 Mins",
 "year": "2023",
-"Drama": "Drama"
+"type1": "Drama",
+"type2": "history"
 },
 {
 "title": "The Last Voyage of the Demeter (2023) မြန်မာစာတန်းထိုး",
@@ -75,9 +77,9 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 
 "year": "2023",
 
-"Horror": "Horror",
+"type1": "Horror",
 
-"Thriller": "Thriller"
+"type2": "Thriller"
 },
 {
 "title": " The Creator (2023) မြန်မာစာတန်းထိုး",
@@ -103,7 +105,7 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 
 "year": "2023",
 
-"Action": "Action"
+"type1": "Action"
 
 },
 {
@@ -128,7 +130,9 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 
 "year": "2023",
 
-"Horror": "Horror"
+"type1": "Horror",
+
+"type2": "Thriller"
 
 },
 {
@@ -154,7 +158,10 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 
 "year": "2023",
 
-"Action": "Action"
+"type1": "Action",
+
+"type2": "Thriller"
+
 },
 {
 "title": " Smugglers (2023)",
@@ -183,7 +190,7 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 "time": "129 Min",
 
 "year": "2023",
-"Action": "Action"
+"type1": "Action"
 },
 {
 "title": "Blue Beetle (2023)",
@@ -219,7 +226,9 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "year": "2023",
 
-"Action": "Action",
+"type1": "Action",
+
+"type2": "Science Fiction",
 
 "DC": "DC"
 },
@@ -261,7 +270,9 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "year": "2023",
 
-"Action": "Action"
+"type1": "Action",
+
+"type2": "Drama"
 
 },
 {
@@ -289,6 +300,9 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "year": "2023",
 
-"Horror": "Horror"
+"type1": "Horror",
+
+"type2": :"Thriller"
+
 }
 ]
