@@ -1,3 +1,4 @@
+
 [
 {
 "title": "The Marvels (2023)",
@@ -27,8 +28,7 @@ Captian Marvel ရဲ့ ဒုတိယမြောက်ဇာတ်ကား�
 "time": "105 Min",
 "year": "2023",
 "Marvel": "Marvel",
-"type1": "Action",
-"type2": "Science"
+"type1": "Science"
 },
 { 
 "title": "Oppenheimer",
@@ -226,9 +226,7 @@ Smugglers (2023) မြန်မာစာတန်းထိုး
 
 "year": "2023",
 
-"type1": "Action",
-
-"type2": "Science",
+"type1": "Science",
 
 "DC": "DC"
 },
