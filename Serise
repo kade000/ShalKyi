@@ -1,13 +1,7 @@
 [
 {
-"Photo": "https://image.tmdb.org/t/p/w185/zQSABH2Dza4mXLow2f0V2IQvJOL.jpg",
-"Title": "Moon Knight (2022)",
-"episode": [{"title": "ep1",
-"photo": "https://www.mediafire.com/view/dl56ppu790j8x62/Sample_-_Golden_Gate_HDR.jpg/file"},
-{"title": "ep2",
-"photo": "https://www.mediafire.com/view/dl56ppu790j8x62/Sample_-_Golden_Gate_HDR.jpg/file"
-}
-]
-
+"code": "s1",
+"photo": "https://image.tmdb.org/t/p/w185/zQSABH2Dza4mXLow2f0V2IQvJOL.jpg",
+"title": "Moon Knight (2022)"
 }
 ]
